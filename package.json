@@ -1,0 +1,23 @@
+{
+  "name": "ts-basic",
+  "version": "1.0.0",
+  "description": "practice the basic concepts of TS and apply them to the real project.",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyjaehoon/ts-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyjaehoon/ts-basic/issues"
+  },
+  "homepage": "https://github.com/dannyjaehoon/ts-basic#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
